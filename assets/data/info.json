@@ -1,0 +1,112 @@
+[
+    {
+        "id": "ahri",
+        "name": "Ahri",
+        "description": "Un vastaya que encarna el poder de la magia espiritual. Ahri manipula las emociones de sus enemigos y consume fragmentos de sus almas.",
+        "image": "https://i.pinimg.com/originals/45/8d/d1/458dd126c3a4246a680cf4a8cfb0faed.jpg", 
+        "atributos": [
+            "Magia",
+            "Carisma",
+            "Velocidad"
+        ]
+    },
+    {
+        "id": "garen",
+        "name": "Garen",
+        "description": "Un orgulloso y noble guerrero de Demacia, dedicado a proteger su reino y luchar contra sus enemigos.",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_0.jpg", 
+        "atributos": [
+            "Fuerza",
+            "Lealtad",
+            "Resistencia"
+        ]
+    },
+    {
+        "id": "jinx",
+        "name": "Jinx",
+        "description": "Una criminal lunática y amante del caos que se divierte sembrando el pánico con sus extravagantes armas.",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_0.jpg", 
+        "atributos": [
+            "Explosiones",
+            "Creatividad",
+            "Caos"
+        ]
+    },
+    {
+        "id": "yasuo",
+        "name": "Yasuo",
+        "description": "Un espadachín maestro que usa el viento como arma, en busca de redención tras una traición que lo marcó para siempre.",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_0.jpg", 
+        "atributos": [
+            "Habilidad con la espada",
+            "Movilidad",
+            "Perseverancia"
+        ]
+    },
+    {
+        "id": "lux",
+        "name": "Lux",
+        "description": "Una maga de la luz de Demacia que utiliza su poder para traer esperanza y proteger a quienes lo necesitan.",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_0.jpg", 
+        "atributos": [
+            "Magia de luz",
+            "Optimismo",
+            "Resolución"
+        ]
+    },
+    {
+        "id": "zed",
+        "name": "Zed",
+        "description": "El maestro de las sombras que lidera una orden dedicada a usar la magia oscura en defensa de Jonia.",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_0.jpg", 
+        "atributos": [
+            "Sigilo",
+            "Habilidad táctica",
+            "Dominio de las sombras"
+        ]
+    },
+    {
+        "id": "ekko",
+        "name": "Ekko",
+        "description": "Un joven prodigio de Zaun que manipula el tiempo para deshacer errores y proteger su hogar.",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_0.jpg", 
+        "atributos": [
+            "Control del tiempo",
+            "Ingenio",
+            "Habilidad técnica"
+        ]
+    },
+    {
+        "id": "miss-fortune",
+        "name": "Miss Fortune",
+        "description": "Una cazarrecompensas despiadada que busca justicia en las peligrosas aguas de Aguasturbias.",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_0.jpg", 
+        "atributos": [
+            "Puntería",
+            "Estrategia",
+            "Encanto"
+        ]
+    },
+    {
+        "id": "lee-sin",
+        "name": "Lee Sin",
+        "description": "Un monje ciego y maestro de artes marciales que canaliza su chi para luchar y proteger Jonia.",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_0.jpg", 
+        "atributos": [
+            "Dominio marcial",
+            "Percepción",
+            "Disciplina"
+        ]
+    },
+    {
+        "id": "fiora",
+        "name": "Fiora",
+        "description": "Una duelista formidable de Demacia que busca perfeccionar su arte y restaurar el honor de su familia.",
+        "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_0.jpg", 
+        "atributos": [
+            "Velocidad",
+            "Precisión",
+            "Determinación"
+        ]
+    }
+]
